@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body >
+<div id="myInfo"></div>
+<script>
+'use strict';
+
+if (localStorage.getItem('name') === null) {
+    console.log('Error');
+}
+
+    let name = localStorage.getItem('name');
+    let age = localStorage.getItem('age');
+    let lastName = localStorage.getItem('lastName');
+
+    document.getElementById('myInfo').innerHTML = name + ' ' + lastName + ' ' + age;
+
+</script>
+
+</body>
+</html>
