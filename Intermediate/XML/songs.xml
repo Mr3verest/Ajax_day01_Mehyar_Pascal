@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <song>
+        <title>Song name 1 </title>
+        <artist>Artist name 1</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year>1950</year>
+    </song>
+    <song>
+        <title>Song name 2 </title>
+        <artist>Artist name 2</artist>
+        <country>Austria</country>
+        <genre>Classic</genre>
+        <year>1950</year>
+    </song>
+    <song>
+        <title>Song name 3 </title>
+        <artist>Artist name 3</artist>
+        <country>Austria</country>
+        <genre>Jas</genre>
+        <year>1950</year>
+    </song>
+    <song>
+        <title>Song name 4 </title>
+        <artist>Artist name 4</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year>1950</year>
+    </song>
+    <song>
+        <title>Song name 5 </title>
+        <artist>Artist name 5</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year>1950</year>
+    </song>
+    <song>
+        <title>Song name 6 </title>
+        <artist>Artist name 6</artist>
+        <country>Austria</country>
+        <genre>Rock</genre>
+        <year>1950</year>
+    </song>
+</songs>
